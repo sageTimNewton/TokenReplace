@@ -31,7 +31,7 @@ Outline the file contents of the repository. It helps users navigate the codebas
 | `Example.json`      | Sample json file with UName and PWord placeholders |
 | `Example.xml`       | Sample xml file with a CString placeholder         |
 
-## Prerequisites
+## Prerequisites 
 
 GitHub account with build/actions enabled.
 
